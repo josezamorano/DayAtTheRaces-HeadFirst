@@ -1,0 +1,2 @@
+This source-code is an extension to the general solution to the Lab# 1 --"Day at the Races" in the Head First C# book.
+My primary idea was to give more functionalities and flexibility to the original game. I tried to make it more vivid, learn and have fun while doing it. I am sharing my code so those who are reading the book and want to try to make it more flexible have a reference in case they have any problems while trying to do it.  
